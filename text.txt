@@ -1,3 +1,4 @@
 this is text file 
 new update
 this is new line
+new stuff for merge
